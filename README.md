@@ -2,4 +2,4 @@
 
 **КРИТЕРИИ ОЦЕНКИ** - CRITERIA_README.md
 
-**ИНТЕРФЕЙС ФОРМ** - INTERFACEFORM_README.md
+**ИНТЕРФЕЙС ФОРМ И ПОЛЬЗОВАТЕЛЬСКОГО ЭЛЕМЕНТА** - INTERFACEFORM_README.md
