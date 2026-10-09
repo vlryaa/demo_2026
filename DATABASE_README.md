@@ -1,10 +1,10 @@
-<img width="784" height="800" alt="image" src="https://github.com/user-attachments/assets/f3645d98-577c-411c-9881-b37a818623ec" />
+<img width="784" height="800" alt="image" src="https://github.com/user-attachments/assets/f3645d98-577c-411c-9881-b37a818623ec" /> 
 
 
-<img width="424" height="134" alt="image" src="https://github.com/user-attachments/assets/9135d119-98ba-426c-9d6f-47601679bb81" />
+<img width="424" height="134" alt="image" src="https://github.com/user-attachments/assets/9135d119-98ba-426c-9d6f-47601679bb81" /> /
 
 
-<img width="446" height="154" alt="image" src="https://github.com/user-attachments/assets/dec4489f-1809-4a86-a8f7-2d8f7c7c58b3" />
+<img width="446" height="154" alt="image" src="https://github.com/user-attachments/assets/dec4489f-1809-4a86-a8f7-2d8f7c7c58b3" /> /
 
 
 <img width="426" height="158" alt="image" src="https://github.com/user-attachments/assets/f665e036-016f-4b15-bc33-a36759e19d7f" />
@@ -83,3 +83,13 @@
 
 
 <img width="804" height="332" alt="image" src="https://github.com/user-attachments/assets/b8d76d79-1291-4da7-b328-6ecf25e49ca2" />
+
+
+
+
+
+Обратите внимание, чтобы идентификатор был проставлен, как ДА, в свойствах столбца
+
+
+
+<img width="1172" height="880" alt="image" src="https://github.com/user-attachments/assets/5a36f78b-7c7d-47d1-946f-adce3cc5f691" />
