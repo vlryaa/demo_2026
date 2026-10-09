@@ -1,4 +1,12 @@
-<img width="784" height="800" alt="image" src="https://github.com/user-attachments/assets/f3645d98-577c-411c-9881-b37a818623ec" /> 
+<img width="784" height="800" alt="image" src="https://github.com/user-attachments/assets/f3645d98-577c-411c-9881-b37a818623ec" /> /
+
+<img width="646" height="334" alt="image" src="https://github.com/user-attachments/assets/cc7539e1-4f29-4614-979e-339bdc26eb56" />
+
+**ПЕРЕНЕСТИ ФАЙЛЫ В СУБД**
+
+<img width="834" height="704" alt="image" src="https://github.com/user-attachments/assets/b4dc6e65-84ae-4b9d-88ee-1dc3edf88f13" />
+
+**ОСТАЛЬНЫЕ ФАЙЛЫ ПЕРЕНЕСИТЕ ТАКИМ ЖЕ ОБРАЗОМ**
 
 
 <img width="424" height="134" alt="image" src="https://github.com/user-attachments/assets/9135d119-98ba-426c-9d6f-47601679bb81" /> /
