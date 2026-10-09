@@ -2,4 +2,6 @@
 
 **КРИТЕРИИ ОЦЕНКИ** - CRITERIA_README.md
 
+**ТАБЛИЦЫ В СУБД** - DATABASE_README.md
+
 **ИНТЕРФЕЙС ФОРМ И ПОЛЬЗОВАТЕЛЬСКОГО ЭЛЕМЕНТА** - INTERFACEFORM_README.md
