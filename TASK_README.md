@@ -1,3 +1,9 @@
+https://bom.firpo.ru/Public/5507
+<img width="1216" height="638" alt="image" src="https://github.com/user-attachments/assets/2f1a1cbf-4649-4c11-a86b-03bbd59db5b3" />
+
+
+
+
 <img width="438" height="810" alt="image" src="https://github.com/user-attachments/assets/522b5cef-c4a4-4c3e-ad44-2c812e6fa6ad" />
 <img width="420" height="610" alt="image" src="https://github.com/user-attachments/assets/1434397d-abd0-4317-a566-9399078e75a8" />
 <img width="430" height="610" alt="image" src="https://github.com/user-attachments/assets/aaa0b399-ba2a-4dd8-9f3f-f643a64a5019" />
